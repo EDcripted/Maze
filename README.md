@@ -58,3 +58,5 @@ maze/
 SCREENSHOT:
 
 <img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/a863ad13-36ad-40a8-ae9e-3183e05567da" />
+
+DEMO LINK: https://star-maze.vercel.app/
